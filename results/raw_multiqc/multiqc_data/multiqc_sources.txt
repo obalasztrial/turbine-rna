@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	sum159_dmso1	/home/ligeti/gitrepos/turbine-rnaseq-ligeti/results/raw_qc/sum159_dmso1_fastqc.zip
+FastQC	all_sections	sum159_dmso2	/home/ligeti/gitrepos/turbine-rnaseq-ligeti/results/raw_qc/sum159_dmso2_fastqc.zip
+FastQC	all_sections	sum159_jq1	/home/ligeti/gitrepos/turbine-rnaseq-ligeti/results/raw_qc/sum159_jq1_fastqc.zip
+FastQC	all_sections	sum159_jq2	/home/ligeti/gitrepos/turbine-rnaseq-ligeti/results/raw_qc/sum159_jq2_fastqc.zip
