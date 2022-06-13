@@ -6,7 +6,8 @@
 *.ipynb_checkpoints*
 *nohup.out*
 *._.xlsx*
-
+*.fq
+*.fastq
 *miniconda3
 
 # PyCharm related files
