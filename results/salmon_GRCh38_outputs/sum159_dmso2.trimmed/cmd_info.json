@@ -1,0 +1,13 @@
+{
+    "salmon_version": "1.7.0",
+    "index": "/home/ligeti/ensemble/salmon_transcripts_index",
+    "libType": "A",
+    "unmatedReads": "/home/ligeti/gitrepos/turbine-rnaseq-ligeti/results/trimmed_files/sum159_dmso2.trimmed.fastq",
+    "threads": "30",
+    "output": "/home/ligeti/gitrepos/turbine-rnaseq-ligeti/results/salmon_GRCh38_outputs/sum159_dmso2.trimmed",
+    "numBootstraps": "100",
+    "validateMappings": [],
+    "useVBOpt": [],
+    "seqBias": [],
+    "auxDir": "aux_info"
+}
