@@ -1,4 +1,6 @@
-# 
+
+# Notebook config
+*jupyter_notebook_config.py
 
 #Macstuff
 .DS_Store
